@@ -1,2 +1,8 @@
 # pythonicway
-Comparing Python with other Popular Programming Languages
+### Author: Anthoniraj Amalanathan
+## Python vs Java
+- Hello World Program
+- Password Hash Generation
+- File Content Reading
+
+
